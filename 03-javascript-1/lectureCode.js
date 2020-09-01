@@ -1,6 +1,5 @@
 // Variables and data types
 //Numbers
-this is a test
 
 //Declare a variable called age and give it a value of your age.
 
